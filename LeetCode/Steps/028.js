@@ -6,5 +6,5 @@
  * @return {number}
  */
 var strStr = function(haystack, needle) {
-    return haystack.indexOf(needle)
+    return nums.indexOf(target)
 };
